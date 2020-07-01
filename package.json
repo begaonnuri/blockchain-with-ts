@@ -8,6 +8,7 @@
     "start": "tsc-watch --onSuccess \" node dist/index.js\" "
   },
   "devDependencies": {
+    "prettier": "^2.0.5",
     "tsc-watch": "^4.2.9",
     "typescript": "^3.9.5"
   },
