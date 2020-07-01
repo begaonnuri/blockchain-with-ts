@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-with-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yoonseo Nam <turtlenam0928@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc-watch --onSuccess \" node dist/index.js\" "
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.2.9",
+    "typescript": "^3.9.5"
+  }
+}
